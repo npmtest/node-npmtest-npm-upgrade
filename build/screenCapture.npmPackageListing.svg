@@ -1,0 +1,43 @@
+<svg height="638" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="638" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-23 05:25:48 +0000    82423 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-23 05:25:48 +0000     2255 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-23 05:25:48 +0000     1093 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-23 05:25:48 +0000     6617 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-23 05:25:48 +0000      362 bytes  db/changelogUrls.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-23 05:25:48 +0000     2643 bytes  lib/Config.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-23 05:25:48 +0000     1414 bytes  lib/askUser.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-23 05:25:48 +0000      301 bytes  lib/bin/cli.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-23 05:25:48 +0000      264 bytes  lib/catchAsyncError.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-23 05:25:48 +0000     5511 bytes  lib/changelogUtils.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-23 05:25:48 +0000      296 bytes  lib/cliStyles.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-23 05:25:48 +0000     1297 bytes  lib/cliTable.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-23 05:25:48 +0000    14417 bytes  lib/commands/check.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-23 05:25:48 +0000     3147 bytes  lib/commands/ignore.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-23 05:25:48 +0000     4208 bytes  lib/commands/ignore/add.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-23 05:25:48 +0000     1409 bytes  lib/commands/ignore/list.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-23 05:25:48 +0000     4022 bytes  lib/commands/ignore/reset.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-23 05:25:48 +0000     1595 bytes  lib/filterUtils.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-23 05:25:48 +0000      413 bytes  lib/npmProgress.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-23 05:25:48 +0000     4245 bytes  lib/packageUtils.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-23 05:25:48 +0000      997 bytes  lib/repositoryUtils.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-23 05:25:48 +0000     3323 bytes  package.json</tspan>
+<tspan x="10" y="378"> 22.  2017-04-23 05:25:48 +0000     1510 bytes  src/Config.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-23 05:25:48 +0000      182 bytes  src/askUser.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-23 05:25:48 +0000      148 bytes  src/bin/cli.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-23 05:25:48 +0000      215 bytes  src/catchAsyncError.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-23 05:25:48 +0000     1922 bytes  src/changelogUtils.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-23 05:25:48 +0000      154 bytes  src/cliStyles.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-23 05:25:48 +0000      819 bytes  src/cliTable.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-23 05:25:48 +0000     8343 bytes  src/commands/check.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-23 05:25:48 +0000     1259 bytes  src/commands/ignore.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-23 05:25:48 +0000     2133 bytes  src/commands/ignore/add.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-23 05:25:48 +0000      426 bytes  src/commands/ignore/list.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-23 05:25:48 +0000     1745 bytes  src/commands/ignore/reset.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-23 05:25:48 +0000      868 bytes  src/filterUtils.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-23 05:25:48 +0000      106 bytes  src/npmProgress.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-23 05:25:48 +0000     2073 bytes  src/packageUtils.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-23 05:25:48 +0000      691 bytes  src/repositoryUtils.js</tspan>
+</text>
+</svg>
